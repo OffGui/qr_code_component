@@ -20,7 +20,7 @@
 
 .card {
 	padding: 15px;
-	width: 300px;
+	width: 280px;
 	height: 450px;
 	border: solid 1px;
 	border-color: #d5e1ef;
@@ -35,6 +35,11 @@
 
 h3 {
 	padding: 15px;
+	color: #1f3251;
+}
+
+p {
+	color: #7b879d;
 }
 
 body {
